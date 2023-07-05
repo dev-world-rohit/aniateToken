@@ -7,5 +7,3 @@ Backened : Motoko
 1. User authentication using Internet Identity
 2. 1000 aniateToken as a signing bonus.
 3. Transfering your aniateTokens to other user.
-
-#dfx #icp #web3 #web #react #developer #motoko #internetcomputers #blockchain #github
