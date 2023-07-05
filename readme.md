@@ -1,4 +1,4 @@
-"aniateToken" a simple web3 based decentralised token website that allow users to create and and transfer their token other people. 
+## "aniateToken" ## is a simple web3 based decentralized token website that allow users to create and and transfer their token  to other people. 
 
 Frontened : React <br>
 Backened : Motoko
