@@ -1,5 +1,5 @@
 ## "aniateToken"
-It is a simple web3 based decentralized token website that allow users to create and and transfer their token  to other people. 
+It is a simple web3 based decentralized token website that allows users to create and transfer their new type of tokens "aniateToken"  to other people. 
 
 Frontened : React <br>
 Backened : Motoko
@@ -7,7 +7,7 @@ Backened : Motoko
 ## Website Involves
 1. User authentication using Internet Identity
 2. 1000 aniateToken as a signing bonus.
-3. Transfering your aniateTokens to other user.
+3. Transfering your aniateTokens to other users.
 
 When you load website then it will ask you to create a <span> Internet Identity </span>
 ![image](https://github.com/dev-world-rohit/aniateToken/assets/136791205/02833190-27ba-4beb-943b-7949f8681854)
