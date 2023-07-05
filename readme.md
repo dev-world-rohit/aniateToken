@@ -1,6 +1,6 @@
 "aniateToken" a simple web3 based decentralised token website that allow users to create and and transfer their token other people. 
 
-Frontened : React
+Frontened : React <br>
 Backened : Motoko
 
 ## Website Involves
