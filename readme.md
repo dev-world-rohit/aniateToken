@@ -16,13 +16,11 @@ When you load website then it will ask you to create a <span> Internet Identity 
 <br>
 This is the normal look of website.
 <br>
-<br>
 ![image](https://github.com/dev-world-rohit/aniateToken/assets/136791205/3ad97242-3d60-4b9a-bfed-a68887a13c3a)
 <br>
 <br>
 <br>
 First you have to faucet if your are new user and then 1000 aniateToken will be transfered to your account. In next section you can check your account balance and in last section you can actually transfer aniateToken from your accunt to another account by just using the person's ID.
-<br>
 <br>
 ![image](https://github.com/dev-world-rohit/aniateToken/assets/136791205/1c643d4d-d9bb-43d8-9c3b-15833bc19b06)
  <br>
